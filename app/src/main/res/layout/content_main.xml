@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="io.bbi.williamli.just5things.MainActivity"
+    tools:showIn="@layout/activity_main">
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/scrollView">
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            >
+
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:text="@string/app_name"-->
+            <!--android:id="@+id/textView"-->
+            <!--android:layout_alignParentTop="true"-->
+            <!--android:layout_centerHorizontal="true"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/image_height"
+            android:text="@string/topic_title_01"
+            android:id="@+id/launchButton01"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/banner_goobne"
+            android:scaleType="centerCrop"
+            />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/image_height"
+            android:text="@string/topic_title_02"
+            android:id="@+id/launchButton02"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_below="@+id/launchButton01"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/banner_scafe"
+            android:scaleType="centerCrop"
+            />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/image_height"
+            android:text="@string/topic_title_03"
+            android:id="@+id/launchButton03"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_below="@+id/launchButton02"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/banner_schoolfood"
+            android:scaleType="centerCrop"
+            />
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/image_height"
+            android:text="@string/topic_title_04"
+            android:id="@+id/launchButton04"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_below="@+id/launchButton03"
+            android:layout_centerHorizontal="true"
+            android:src="@drawable/banner_bbq"
+            android:scaleType="centerCrop"
+            />
+
+
+        <ImageView
+            android:layout_width="fill_parent"
+            android:layout_height="@dimen/image_height"
+            android:id="@+id/launchButton05"
+            android:text="@string/topic_title_05"
+            android:layout_marginTop="@dimen/activity_horizontal_margin"
+            android:layout_below="@+id/launchButton04"
+            android:src="@drawable/banner_charm"
+            android:scaleType="centerCrop"
+            android:layout_centerHorizontal="true" />
+
+        </RelativeLayout>
+    </ScrollView>
+
+
+
+</RelativeLayout>

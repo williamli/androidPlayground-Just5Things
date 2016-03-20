@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">5 Koeran Restaurants</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="topic_title_01">Goobne Chicken</string>
+    <string name="topic_title_02">Seoulmate Cafe</string>
+    <string name="topic_title_03">School Food</string>
+    <string name="topic_title_04">BBQ Military</string>
+    <string name="topic_title_05">CHA:RM</string>
+    <string name="dial_permission_explaination">Telephone permission is required if you would like us to dial the following number for you directly:</string>
+    <string name="content_01"><![CDATA[
+        <p><h4>Address:</h4>尖沙咀赫德道4號The Hart 2樓</p>
+        <p>&nbsp;</p>
+        <p><h4>Opening:</h4>星期一至日: 12:00-02:00</p>
+        <p>&nbsp;</p>
+        <p><h4>Website:</h4><a href="http://www.goobne.co.kr/">http://www.goobne.co.kr/</a></p>
+        <p>&nbsp;</p>
+        <p><h4>Descriptions:</h4>韓國第一烤雞品牌
+韓國第一烤雞品牌Goobne Chicken登陸香港的第一間分店，以多款不同口味的韓式焗爐烤雞令顧客大排長龍。烤雞不經油炸，外層香脆，肉質嫩滑充滿肉汁，而雞的油份從烤焗過程中迫出來，有效做到低熱量、低膽固醇、低鈉、無反式脂肪，極力推行健康雞肉新食法，連韓國星級代言人徐康俊Seo Kang-joon與姜素拉Kang So-ra也大讚好好味！</p>
+        <p>&nbsp;</p>
+        <p><h4>Comments:</h4>
+        話說上次係cwb食完名過其實既人氣炸雞之後，男朋友一直唔死心想試下呢一間人氣爆燈既韓式炸雞
+是日我地order左好似最多good comment,外表最吸引既curry honey chicken, 仲有柚子沙冰同藍色既沙魚特飲<br/><br/>
+Curry honey chicken-對於呢隻雞我只可以話係ok only，點解會ok?因為佢都好過cwb果間人氣炸雞～講返呢隻雞，落d咖哩粉+d蜜糖放入個焗爐度我係屋企整應該唔會差太遠，even better!呢隻雞比我想像中小都算啦，雪藏雞肉預左，但係唔知係咪因為太少炸粉定係焗得太耐既關係，d肉一d都唔juicy,收得我180蚊一隻雞我唔希望佢會得差過kfc既蜜糖燒雞/狂惹香燒雞lor @@ 蜜糖又唔夠多，雞肉又乾，淨係得咖哩味，我真係唔係好明點解仲會有咁多人去食？如果我用180蚊去食kfc or jolley bee一定會滿足過呢度10倍@@
+</p><p>&nbsp;</p>]]></string>
+    <string name="content_02"><![CDATA[
+        <p><h4>Address:</h4>西環西營盤第三街83號</p>
+        <p>&nbsp;</p>
+        <p><h4>Opening:</h4>星期二至日: 12:00-22:00; 星期一: 休息</p>
+        <p>&nbsp;</p>
+        <p><h4>Descriptions:</h4>
+        一家由韓國人開設的Café，環境極具韓風特色，例如Cafe的後花園。創作咖啡有把樽裝柚子跟Americano混合起來的柚子Koreano，另外甜品以紫薯latte和刨冰最受歡迎。
+        </p>
+        <p>&nbsp;</p>
+        <p><h4>Comments:</h4>
+        熱愛食紫薯食品既我一早已經聽過Li間係西環既韓式Cafe有，
+一直都好想去食佢地既紫薯甜品，最近終於都的起心肝約左兩個朋友去啦！
+1pm去到唔洗等位直接入得，
+餐廳有室內同埋入去有個環境幾靚既室外花園座位，
+我地見天氣都幾暖又有陽光就去左花園揀位坐。
+三個人一共叫左三個咸食同三個甜食黎share，
+Li到係自助形式，諗好食咩就去Cashier落單之後就會俾個通知機你，
+咁我地就可以返座位等食。
+隔左十幾分鐘後，通知機就震震震不停，啫係話已經可以去擰野食啦！
+<br/><br/>岩漿蛋拌飯配黑松露煙三文魚 $88
+先講賣相，拌飯壓製成圓柱形，
+由外面睇到各種食材組成一層一層清晰紋理，睇落新穎又精緻！
+為左Li款菜式，店主好細心咁係Menu上提供進食/攪拌拌飯既方法，
+首先將拌飯中間既半熟蛋吉穿，令蛋汁流哂出黎，
+然後再加入佢地自家調製既辣醬，最後將全部食材攪勻即可。
+飯加左自製辣醬都唔算好辣，但酸酸辣辣咁好惹味開胃。
+蛋汁可以令成個飯口感變得濕潤，不過黑松露味道唔算出，可有可無。
+三文魚份量充足，用黎配韓式拌飯出黎既味道係我意想不到咁夾！
+而青瓜絲、南瓜蓉、紫菜可以令口感富之餘，亦令成個拌飯更清新健康，成個拌飯足料份量唔細，食一個當Lunch都已經夠飽！</p><p>&nbsp;</p>]]></string>
+    <string name="content_03"><![CDATA[
+        <p><h4>Address:</h4>銅鑼灣勿地臣街1號時代廣場13樓1302號舖</p>
+        <p>&nbsp;</p>
+        <p><h4>Opening:</h4>星期一至日 12:00-23:00 (截單: 22:30)</p>
+        <p>&nbsp;</p>
+        <p><h4>Descriptions:</h4>
+        傳統韓食新演繹，配合韓流音樂和時尚裝潢，打造韓式飲食新體驗。</p>
+        <p>&nbsp;</p>
+        <p><h4>Dishes:</h4>
+        卡邦尼年糕<br/>
+        地獄辣醬炒年糕<br/>
+        烏卒卒 (墨魚汁飯卷)<br/>
+        紳士先生(韓式餐肉及芝士雞蛋飯卷)<br/>
+        韓式刨冰<br/>
+        醬菜牛油鐵鍋飯
+        </p>
+        <p>&nbsp;</p>
+        <p><h4>Comments:</h4>
+        期待已久的school food 同朋友睇完戲去食school food 做晚餐
+平日都需要等半個鐘左右
+兩個人叫左3樣野
+軟芝士泡菜鐵鍋飯 紅葉花卷同墨魚卷 最後係炸雞
+先講炸雞未上枱已經聞到陣香味
+食落都幾夠味加上旁邊的伴菜感覺唔會太油膩建議大家快啲食晒啲炸雞
+因為旁邊d伴菜時間耐左會出水
+影響炸雞味道
+而卷物賣相一流味道都幾特別，好少有地方有得食翻到紅菜頭的味道！
+最後嘅鐵鍋飯都幾香不過無咩驚喜同一般市面差唔多而且性價比一般，份量較少。
+配上K-pop一邊食一邊聽
+岩哂中意韓星既你地！
+兩個人食 好多機會食唔曬，最後埋單250左右，價錢適中
+</p><p>&nbsp;</p>]]></string>
+    <string name="content_04"><![CDATA[
+        <p><h4>Address:</h4>荃灣眾安街55號大鴻輝(荃灣)中心18樓</p>
+        <p>&nbsp;</p>
+        <p><h4>Opening:</h4>星期一至日: 16:00-02:00</p>
+        <p>&nbsp;</p>
+        <p><h4>Descriptions:</h4>
+        哈韓人士必試的正宗韓式燒烤，老闆及店內廚師均為韓國人，亦擁有韓國廚師牌，務求提供最正宗韓國風味。</p>
+        <p>&nbsp;</p>
+        <p><h4>Comments:</h4>
+        昨天是與姊妹們的聚會，也是補祝我生日的生日飯。初嘗試炒年糕鍋！
+唯一有點不好就是這大廈太多食市了，大堂排隊上都等了20-30mins
+love店鋪很整潔！韓式風格！
+食物又很好食！很新鮮！
+椅子 可以放隨身物品
+
+sick雖然沒有報章介紹那麼多食物！
+
+沒有多款年糕，只有兩款。
+
+沒有我最想吃的魚糕。
+但整體來說，味道一流！
+
+$99 90分鐘真的很抵！
+
+不過90分鐘是有點太短！
+
+昨晚因為不多人，所以沒有被趕走！
+
+吃了兩小時多！抵！
+</p><p>&nbsp;</p>]]></string>
+    <string name="content_05"><![CDATA[
+        <p><h4>Address:</h4>太和太和路15號太和中心1座地下7號舖</p>
+        <p>&nbsp;</p>
+        <p><h4>Opening:</h4>星期一至日: 11:30-15:30, 17:30-22:30</p>
+        <p>&nbsp;</p>
+        <p><h4>Dishes:</h4>
+        辣炒年糕<br/>
+        韓式炸雞<br/>
+        蜜糖炸雞<br/>
+        辣炒薄餅<br/>
+        壽司卷
+        </p>
+        <p>&nbsp;</p>
+        <p><h4>Comments:</h4>
+        大埔嘅韓國餐廳，試過幾間都伏到喊。今次去食嘅時候已經有哂心理準備架啦！點知，竟然令我非常喜出望外！<br/>
+        由於朋友已經黎過幾次，所以我完全無睇Menu等佢發板！<br/>
+        超熱辣辣！岩岩炸出黎，灘左一陣先食得！<br/>
+        味道認真唔錯，個皮好香脆。而且成舊雞都沾滿蜜糖，甜甜地，好好味！下次黎一定會再叫！<br/>
+        味道認真唔錯，個皮好香脆。而且成舊雞都沾滿蜜糖，甜甜地，好好味！下次黎一定會再叫！<br/>
+        味道認真唔錯，個皮好香脆。而且成舊雞都沾滿蜜糖，甜甜地，好好味！下次黎一定會再叫！<br/>
+        味道認真唔錯，個皮好香脆。而且成舊雞都沾滿蜜糖，甜甜地，好好味！下次黎一定會再叫！</p><p>&nbsp;</p>]]>
+    </string>
+    <string name="phone_01">+85223110001</string>
+    <string name="phone_02">+85221046788</string>
+    <string name="phone_03">+85224803666</string>
+    <string name="phone_04">+85224081068</string>
+    <string name="phone_05">+85256638839</string>
+</resources>
